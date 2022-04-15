@@ -5,6 +5,8 @@ on:
   # 指明要运行的分支，跟上面配置保持一致
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
