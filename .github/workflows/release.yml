@@ -1,16 +1,17 @@
 # 工作流名称
-name: Build and Deploy
+name: Release
 
 on:
   # 指明要运行的分支，跟上面配置保持一致
-  push:
-    branches: [main]
   pull_request:
-    branches: [main]
-
+    types:
+      - closed
+    branches:
+      - main
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
+    if: ${{ github.event.pull_request.merged == true }}
 
     steps:
       # 把分支拉出来
