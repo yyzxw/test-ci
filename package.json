@@ -6,5 +6,6 @@
     "package.json",
     "package-lock.json"
   ],
-  "name": "test-ci"
+  "name": "test-ci",
+  "version": "1.1.0"
 }
