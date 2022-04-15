@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/yyzxw/test-ci/compare/v1.2.0...v1.3.0) (2022-04-15)
+
+
+### Features
+
+* update .releaserc.json ([5901d65](https://github.com/yyzxw/test-ci/commit/5901d65058ece44053da5971a129bd2ea3226654))
+* update .releaserc.json ([c74795d](https://github.com/yyzxw/test-ci/commit/c74795dfbefbe41a99b7f6442bdaac8dad1e49be))
+
 # [1.2.0](https://github.com/yyzxw/test-ci/compare/v1.1.0...v1.2.0) (2022-04-15)
 
 
