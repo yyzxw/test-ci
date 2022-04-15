@@ -29,7 +29,7 @@
       "npmPublish": false
     }],
     ["@semantic-release/git", {
-      "assets": ["CHANGELOG.md", "package.json", "package-lock.json"]
+      "assets": ["CHANGELOG.md", "package.json", "package-lock.json","./target/"]
     }]
   ]
 }
