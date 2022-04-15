@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yyzxw/test-ci/compare/v1.1.0...v1.2.0) (2022-04-15)
+
+
+### Features
+
+* add func ([88b3ea6](https://github.com/yyzxw/test-ci/commit/88b3ea649eded370754f8e81f035a8ac89446012))
+
 # [1.1.0](https://github.com/yyzxw/test-ci/compare/v1.0.1...v1.1.0) (2022-04-15)
 
 
