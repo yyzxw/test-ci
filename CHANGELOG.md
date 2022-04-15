@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/yyzxw/test-ci/compare/v1.3.0...v1.4.0) (2022-04-15)
+
+
+### Features
+
+* add pull_request trigger CI ([79e1917](https://github.com/yyzxw/test-ci/commit/79e1917df557660f6ddd6a0bc690a1d967b52cc6))
+
 # [1.3.0](https://github.com/yyzxw/test-ci/compare/v1.2.0...v1.3.0) (2022-04-15)
 
 
