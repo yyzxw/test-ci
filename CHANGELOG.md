@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/yyzxw/test-ci/compare/v1.5.0...v1.6.0) (2022-04-15)
+
+
+### Features
+
+* test-pr-ci ([af76d39](https://github.com/yyzxw/test-ci/commit/af76d397e474ffa39d5bec37d006e0a06a7a2f0c))
+
 # [1.5.0](https://github.com/yyzxw/test-ci/compare/v1.4.0...v1.5.0) (2022-04-15)
 
 
