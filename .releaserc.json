@@ -18,9 +18,6 @@
     }],
     ["@semantic-release/changelog", {
       "preset": "angular",
-      "parserOpts": {
-        "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
-      },
       "writerOpts": {
         "changelogFile": "CHANGELOG.md"
       }
