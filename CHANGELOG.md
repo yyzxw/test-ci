@@ -1,3 +1,14 @@
+# [1.5.0](https://github.com/yyzxw/test-ci/compare/v1.4.0...v1.5.0) (2022-04-15)
+
+
+### Features
+
+* add test-pr.md ([acc1697](https://github.com/yyzxw/test-ci/commit/acc16979fb737e418f5bb1041e082b5210cdd59f))
+* rm test-pr.md ([b7d67d1](https://github.com/yyzxw/test-ci/commit/b7d67d1ed163c020776de53f4ea91876b638f535))
+* update redeme.md ([5c61f28](https://github.com/yyzxw/test-ci/commit/5c61f281d99948db4921c88f9c9a6e22e47a1a8d))
+* update redeme.md ([4fed5a0](https://github.com/yyzxw/test-ci/commit/4fed5a0ea329b22da047c6228032a5b714c49e24))
+* update release.md ([b94b25a](https://github.com/yyzxw/test-ci/commit/b94b25a534a4440b0b468eaa47a1e1e64cf25e1e))
+
 # [1.4.0](https://github.com/yyzxw/test-ci/compare/v1.3.0...v1.4.0) (2022-04-15)
 
 
