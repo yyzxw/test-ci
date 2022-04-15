@@ -35,7 +35,7 @@ jobs:
       # 打包你的插件/组件/库等等等
       - name: Build
         run: |
-          go build . && cp ./test-ci ./target/
+          go build . && mkdir ./target && cp ./test-ci ./target/
 
       # 执行 semantic-release 发布包
       - name: Release
