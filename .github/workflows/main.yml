@@ -25,7 +25,7 @@ jobs:
 
       - name: before_script
         run: |
-          npm install -g semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/gitlab @semantic-release/git @semantic-release/npm @semantic-release/release-notes-generator
+          npm install -g semantic-release @semantic-release/github @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/gitlab @semantic-release/git @semantic-release/npm @semantic-release/release-notes-generator
 
       # 安装依赖，包括我们的 semantic-release 全套
       - name: Install
